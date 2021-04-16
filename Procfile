@@ -1,1 +1,1 @@
-worker: main.py
+worker: for itmo.py
